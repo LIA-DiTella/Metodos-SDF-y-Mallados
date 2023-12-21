@@ -14,3 +14,12 @@
 | SLIDE \[[CVPR23](https://slide-3d.github.io/)] | Mesh | Diffusion | ? |
 | Magic3D \[[CVPR23](https://research.nvidia.com/labs/dir/magic3d/)] | Mesh | Diffusion | Prompt |
 | Fantasia3D \[[ICCV23](https://fantasia3d.github.io/)] | DMTet | Diffusion | Prompt |
+| LRM \[[ArXiv](https://yiconghong.me/LRM/)] | Tri-plane / NERF-rendered | Transformer E-D | Imagen 2D |
+| DMV3D \[[ArXiv](https://justimyhxu.github.io/projects/dmv3d/)] | Tri-plane / NERF-rendered | Transformer/Diffusion | Varias samples de ruido 2D |
+| Instant3D \[[ArXiv](https://jiahao.ai/instant3d/)] | Tri-plane / NERF-rendered | Diffusion | Prompt |
+| ZeroNVS \[[ArXiv](https://kylesargent.github.io/zeronvs/)] | No entendi | Diffusion | Imagen 2D |
+| HoloDiffusion \[[CVPR23](https://holodiffusion.github.io/)] | Features voxelizadas + MLP | Diffusion | No entendi - pareciera ser ruido voxelizado |
+| HoloFusion \[[ICCV23](https://holodiffusion.github.io/holofusion/)] | Features voxelizadas| Diffusion | No entendi - pareciera ser ruido voxelizado |
+| Text2Room \[[ICCV23](https://holodiffusion.github.io/holofusion/)] | Features voxelizadas| Diffusion | No entendi - pareciera ser ruido voxelizado |
+| HyperDiffsuion \[[ICCV23](https://ziyaerkoc.com/hyperdiffusion/)] | MLP overfiteada | Diffusion | Ruido 1D |
+
